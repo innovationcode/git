@@ -15,7 +15,7 @@
 6. Copy the https url of your newly created repo
 7. In the Command prompt, add the URL for the remote repository where your local repository will be pushed.
 
-   ```git remote add origin remote repository URL```
+   ```git remote add origin "-remote repository URL-"```
 
    ```git remote -v```
 8. Push the changes in your local repository to GitHub.
